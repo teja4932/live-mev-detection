@@ -1,0 +1,2 @@
+window_size,average_latency_ms,minimum_latency_ms,maximum_latency_ms,analysis_throughput_tx_per_sec,memory_change_kb,repetitions
+60,5.105542089877417,4.947417008224875,6.114584000897594,11751.935238955319,0.0,100
